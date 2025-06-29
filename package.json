@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@thinkflagship/web-shorts": "^1.0.77",
+    "@thinkflagship/web-shorts": "^1.0.79",
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
